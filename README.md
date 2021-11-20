@@ -42,15 +42,8 @@ The project should run with libraries included in the Anaconda distribution. Fol
 
 ## Files in the Repository <a name="filesintherepository"></a>
 
-  - boston_seattle.ipynb: Jupyter notebook containing the analysis of the project
+  - xx.ipynb: Jupyter notebook containing the analysis of the project
 
-data directory
-  - seattle_listings.csv: Airbnb Seattle data including full descriptions and average review score
-  - seattle_reviews.csv: Airbnb Seattle data including unique id for each reviewer and detailed comments
-  - seattle_calendar.csv: Airbnb Seattle data including listing id and the price and availability for that day
-  - boston_listings.csv: Airbnb Boston data including full descriptions and average review score
-  - boston_reviews.csv: Airbnb Boston data including unique id for each reviewer and detailed comments
-  - boston_calendar.csv: Airbnb Boston data including listing id and the price and availability for that day
 
 ## Results <a name="results"></a>
 
@@ -58,7 +51,7 @@ In order to share my insights and summarize my findings, I created a blog post o
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
-The data for the project is provided from Kaggle and is available for [Boston](https://www.kaggle.com/airbnb/boston) and [Seattle](https://www.kaggle.com/airbnb/seattle/data). 
+The data for the project is provided from Bertelsmann & Arvato!
 Thanks to Udacity for a great project.
 
 
