@@ -11,22 +11,16 @@
 
 ## Project Motivation <a name="motivation"></a>
 
-Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of my Udacity Data Science Nanodegree program, I took a closer look at Airbnb’s two data sets from Seattle and Boston to inspect travelers behavior and the most crucial aspects of being a host. The aim with this goal is to get insights about the Airbnb datasets following the CRISP-DM methodology.
+This challenge was provided by Arvato Financial Solutions for the Udacity Data Science Nanodegree Program. There were two major steps in the project and the submission
 
-In order to start working with the data, it is crucial to formulate real-world questions beforehand that will be answered soon. Since we are living in a very fast-pacing world and environment, one of the most interesting question for me is what exactly are the criteria that influence travelers from around the world to ultimately book a trip to the big wide world? 
-More precise:
-- What impact does timing have on lodging prices?
-- Is it really positive to be ranked as a superhost on Airbnb?
-- What differences can be identified between the two cities of Seattle and Boston?
+1. Customer Segmentation Report
+Using unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
 
-I will do the following steps based on the CRISP-DM methodology:
+2. Supervised Learning Model
+Accessing attributes from targets of a mail order campaign. You'll use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
-1. Datset will be [Boston AirBNB data](https://www.kaggle.com/airbnb/boston) and [Seattle AirBNB data](https://www.kaggle.com/airbnb/seattle/data)
-2. Formulate questions related to business or real-world applications of how the data could be used.
-5. Prepare data
-6. Modeling
-7. Evaluation
-8. Communicate your business insights
+3. Kaggle Competition
+Making predictions on the campaign data as part of a Kaggle Competition. Ranking the individuals by how likely they are to convert to being a customer.
 
 ## Requirements <a name="requirements"></a>
 
@@ -42,12 +36,12 @@ The project should run with libraries included in the Anaconda distribution. Fol
 
 ## Files in the Repository <a name="filesintherepository"></a>
 
-  - xx.ipynb: Jupyter notebook containing the analysis of the project
+  - Arvato Project Workbook.ipynb: Jupyter notebook containing the analysis of the project
 
 
 ## Results <a name="results"></a>
 
-In order to share my insights and summarize my findings, I created a blog post on [Medium](https://robsamm.medium.com/thats-why-being-a-superhost-is-not-the-most-important-fact-at-airbnb-c6f063b4a232)
+In order to share my insights and summarize my findings, I created a blog post on [Medium](xx)
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
