@@ -1,4 +1,4 @@
-# Title
+# Udacity Capstone Project - Customer Segmentation by Bertelsmann & Arvato
 
 ### Table of Contents
 
