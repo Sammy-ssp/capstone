@@ -41,7 +41,7 @@ The project should run with libraries included in the Anaconda distribution. Fol
 
 ## Results <a name="results"></a>
 
-In order to share my insights and summarize my findings, I created a blog post on [Medium](xx)
+In order to share my insights and summarize my findings, I created a blog post on [Medium](https://medium.com/@samsp343/how-arvato-financial-services-is-handling-customer-data-to-create-thought-leadership-9b5f85f0d825)
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
